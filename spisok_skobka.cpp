@@ -50,7 +50,7 @@ void testing(char *str)
 
 
 
-int _tmain(int argc, _TCHAR* argv[])
+int main()
 {
 	    char str0[7] = "{[()]}";
 		char str1[15] = "(({([][])})){}";
