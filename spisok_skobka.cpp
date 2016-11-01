@@ -1,7 +1,4 @@
-// spisok_skobka.cpp : Defines the entry point for the console application.
-//
 
-#include "stdafx.h"
 #include "stdio.h"
 #include "conio.h"
 
@@ -53,7 +50,7 @@ void testing(char *str)
 
 
 
-int _tmain(int argc, _TCHAR* argv[])
+int main()
 {
 	    char str0[7] = "{[()]}";
 		char str1[15] = "(({([][])})){}";
